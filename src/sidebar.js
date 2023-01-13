@@ -136,6 +136,7 @@ module.exports = {
           label: "Bring your own UI",
           items: [
             "concepts/custom-ui-headless-api",
+            "kratos/concepts/ui-user-interface",
             "guides/bring-your-user-interface",
             "getting-started/custom-ui-ory-elements",
           ],
@@ -163,7 +164,6 @@ module.exports = {
         },
         {
           Concepts: [
-            "kratos/concepts/ui-user-interface",
             "kratos/concepts/browser-redirect-flow-completion",
             {
               label: "Identity Credentials",
